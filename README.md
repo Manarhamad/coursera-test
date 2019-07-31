@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 # My solution - Module 2
-[https://manarhamad.github.io/coursera-test/Module 2/index.html]
+[https://manarhamad.github.io/coursera-test/Module" "2/index.html]
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Manarhamad/coursera-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
