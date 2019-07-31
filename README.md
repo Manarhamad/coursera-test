@@ -27,8 +27,7 @@ Syntax highlighted code block
 ```
 # My solution - Module 2 link below :
 
-[https://manarhamad.github.io/coursera-test/Module2_Solution/]
-[https://github.com/Manarhamad/coursera-test.git]
+[https://manarhamad.github.io/coursera-test/Module2_Solution/][https://manarhamad.github.io/coursera-test]
 # My solutions - Module 3 link below :
 
 1.Basic + Optional tasks :
