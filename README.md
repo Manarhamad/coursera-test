@@ -27,16 +27,11 @@ Syntax highlighted code block
 ```
 # My solution - Module 2 link below :
 [https://manarhamad.github.io/coursera-test/]
-[https://manarhamad.github.io/coursera-test/Module2_Solution/][https://manarhamad.github.io/coursera-test]
+
 # My solutions - Module 3 link below :
 
 1.Basic + Optional tasks :
-
-[https://manarhamad.github.io/coursera-test/Module3_Solution/index.html]
-
 2.Basic solution :
-
-[https://manarhamad.github.io/coursera-test\Module3_Solution/index_Basic.html]
 
 ### Jekyll Themes
 
