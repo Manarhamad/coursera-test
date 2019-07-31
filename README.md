@@ -26,7 +26,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 # My solution - Module 2
-[https://manarhamad.github.io/coursera-test/Modules< >2/index.html]
+[google] []
+
+[google][https://manarhamad.github.io/coursera-test/Modules 2/index.html]
 >>> ','.join(strings)
 
 
