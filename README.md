@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 # My solution - Module 2 link below :
-
+[https://manarhamad.github.io/coursera-test/]
 [https://manarhamad.github.io/coursera-test/Module2_Solution/][https://manarhamad.github.io/coursera-test]
 # My solutions - Module 3 link below :
 
