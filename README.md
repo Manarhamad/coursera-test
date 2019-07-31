@@ -25,11 +25,19 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-# My solution - Module 2
+# My solution - Module 2 link below :
 
-[https://manarhamad.github.io\coursera-test\Modules|2\index.html]
+[https://manarhamad.github.io\coursera-test\Modules2_Solution\index.html]
 
+# My solutions - Module 3 link below :
 
+1.Basic + Optional tasks :
+
+[https://manarhamad.github.io\coursera-test\Modules3_Solution\index.html]
+
+2.Basic solution :
+
+[https://manarhamad.github.io\coursera-test\Modules3_Solution\index_Basic.html]
 
 ### Jekyll Themes
 
