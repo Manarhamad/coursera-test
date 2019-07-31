@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 # My solution - Module 2 link below :
 
-[https://manarhamad.github.io\coursera-test\Module2_Solution\index.html]
+[https://manarhamad.github.io\coursera-test\Module2_Solution\]
 
 # My solutions - Module 3 link below :
 
