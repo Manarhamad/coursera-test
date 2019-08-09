@@ -6,8 +6,7 @@ This repository contains my solutions to the assignments of the Coursera course
 
 ## Assignments
 # My solution - Module 2 Uploaded! :
-*[Module#2 Solution](https://manarhamad.github.io/coursera-test/module2solution/index.html)
-
+*[Module#2 Solution](https://manarhamad.github.io/coursera-test/Module2solution/Index.html)
 # My solutions - Module 3 Uploaded! :
 
 1.Basic + Optional tasks :
