@@ -11,7 +11,7 @@ This repository contains my solutions to the assignments of the Coursera course
 1.Basic + Optional tasks :
 [Module#3 Full_Solution](https://manarhamad.github.io/coursera-test/Module3solution/Index.html)
 2.Basic solution :
-[Module#3 Basic_Solution](https://manarhamad.github.io/coursera-test/Module3solution/Index_Basic.html)
+[Module#3 Basic_Solution](https://manarhamad.github.io/coursera-test/Module3solution/Index_basic.html)
 # My Solution - Module 4 Uploaded! :
 [Module#4 Basic_Solution](https://manarhamad.github.io/coursera-test/Module4solution/Index.html)
 
