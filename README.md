@@ -2,12 +2,11 @@
 
 This repository contains my solutions to the assignments of the Coursera course
 ["HTML, CSS, and Javascript for Web Developers" by Johns Hopkins University]
-(https://www.coursera.org/learn/html-css-javascript-for-web-developers "Course
-Homepage on coursera.org").
+(https://www.coursera.org/learn/html-css-javascript-for-web-developers).
 
 ## Assignments
 # My solution - Module 2 link below :
-*[Solution](https://manarhamad.github.io/coursera-test/module2solution/)
+*[Module#2 Solution](https://manarhamad.github.io/coursera-test/module2solution/index.html)
 
 # My solutions - Module 3 link below :
 
