@@ -1,32 +1,13 @@
-## Welcome to GitHub Pages
+# HTML, CSS and Javascript for Web Developers (by Johns Hopkins University)
 
-You can use the [editor on GitHub](https://github.com/Manarhamad/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository contains my solutions to the assignments of the Coursera course
+["HTML, CSS, and Javascript for Web Developers" by Johns Hopkins University]
+(https://www.coursera.org/learn/html-css-javascript-for-web-developers "Course
+Homepage on coursera.org").
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+## Assignments
 # My solution - Module 2 link below :
-[https://manarhamad.github.io/coursera-test/]
+*[Solution](https://manarhamad.github.io/coursera-test/module2solution/)
 
 # My solutions - Module 3 link below :
 
